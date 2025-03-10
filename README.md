@@ -1,10 +1,10 @@
-## 🚗 **Vehicle Towing for FiveM** 🚨
+# 🚗 **Vehicle Towing for FiveM** 🚨
 
-# 📌 **Description**
+## 📌 **Description**
 
 This script for FiveM allows automatic towing of vehicles that remain stationary for too long. It is based on ESX and includes an HTML user interface.
 
-# ⚡ **Features**
+## ⚡ **Features**
 
 🔍 Detection of inactive vehicles.
 
@@ -14,7 +14,7 @@ This script for FiveM allows automatic towing of vehicles that remain stationary
 
 ⚙️ Configurable via the **config.lua** file.
 
-# 📥 **Installation**
+## 📥 **Installation**
 
 📂 Download the files: Clone or download this repository.
 ```bash
@@ -30,13 +30,13 @@ ensure vehicle_towing
 ```
 ⚙️ Configure config.lua: Customize settings according to your server's needs.
 
-# 🛠️ **Dependencies**
+## 🛠️ **Dependencies**
 
 🔗 ESX Framework
 
 🎮 FiveM Server
 
-# 📂 **File Structure**
+## 📂 **File Structure**
 ```bash
 vehicle_towing/
 │── client/
@@ -57,13 +57,13 @@ vehicle_towing/
 │── fxmanifest.lua
 │── ESX_SQL.sql
 ```
-# 🤝 **Contributions**
+## 🤝 **Contributions**
 
 If you would like to contribute to the project, feel free to open a pull request or report any issues in the Issues section.
 
-# 📜 **License**
+## 📜 **License**
 
 This project is released under the MIT license. You are free to modify and distribute it, provided you maintain credit to the original author.
 
-## 👨‍💻 **W3X | Raffaele Brancaccio** 🚀
+# 👨‍💻 **W3X | Raffaele Brancaccio** 🚀
 
